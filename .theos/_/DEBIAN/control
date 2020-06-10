@@ -1,0 +1,10 @@
+Package: dev.dillios.nooldernotifications
+Name: No Older Notifications
+Depends: mobilesubstrate
+Architecture: iphoneos-arm
+Description: A simple tweak to remove the "No Older Notifications" text from notification center.
+Maintainer: dillios <me@dillios.dev>
+Author: dillios <me@dillios.dev>
+Section: Tweaks
+Version: 0.0.1
+Installed-Size: 152
